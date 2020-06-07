@@ -1,9 +1,9 @@
 body {
   background-color: powderblue;
 }
-
+red
 h1{
-  color: #ff5722;
+  color:red;
 }
 
 h2{
@@ -13,8 +13,4 @@ hr
 border-style: none;
 border-top-style: solid;
 border-color: black;
-}
-
-li{
-color: red;
 }
